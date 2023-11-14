@@ -1,6 +1,6 @@
 # hlsVideoPlayer
 
-video js and hls video player example
+video js ( > 7 ) and hls video player example
 
 first we should convert the vide using this command:
 
